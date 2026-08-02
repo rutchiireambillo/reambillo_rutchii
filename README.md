@@ -2,4 +2,4 @@
 
 Web Development
 
-Live site: https://github.com/rutchiireambillo/reambillo_rutchii.git
+Live site: https://rutchiireambillo.github.io/reambillo_rutchii/
